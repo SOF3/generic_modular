@@ -1,0 +1,12 @@
+[package]
+name = "generic_modular"
+version = "0.1.0"
+authors = ["chankyin <chankyin1970@gmail.com>"]
+edition = "2018"
+description = "Modular arithmetic library in Rust with generic number types"
+license = "Apache-2.0"
+categories = ["no-std", "science"]
+keywords = ["mod", "modular", "arithmetic"]
+
+[dependencies]
+static_assertions = "0.3.3"
