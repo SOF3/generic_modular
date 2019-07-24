@@ -7,6 +7,11 @@ description = "Modular arithmetic library in Rust with generic number types"
 license = "Apache-2.0"
 categories = ["no-std", "science"]
 keywords = ["mod", "modular", "arithmetic"]
+repository = "https://github.com/chankyin/generic_modular.git"
+homepage = "https://github.com/chankyin/generic_modular"
 
 [dependencies]
 static_assertions = "0.3.3"
+
+[badges]
+travis-ci = { repository = "chankyin/generic_modular" }
